@@ -6,6 +6,5 @@ Argument|Example|Description
 |--|--|--|
 --source|--source "C:\new_calendar.ics"|Calendar to merge into an existing one.
 --target|--target "C:\existing_calendar.ics"|Calendar to merge source into.
-<br><br>
 ## License
 Please see [LICENSE](LICENSE).
